@@ -1,0 +1,28 @@
+<div class="box alt">
+<div class="row uniform">
+{{ if len .Params | eq 9 }}
+<div class="4u"><span class="image fit"><a href="{{ .Get 0 }}"><img src="{{ .Get 0 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 1 }}"><img src="{{ .Get 1 }}" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="{{ .Get 2 }}"><img src="{{ .Get 2 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 3 }}"><img src="{{ .Get 3 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 4 }}"><img src="{{ .Get 4 }}" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="{{ .Get 5 }}"><img src="{{ .Get 5 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 6 }}"><img src="{{ .Get 6 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 7 }}"><img src="{{ .Get 7 }}" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="{{ .Get 8 }}"><img src="{{ .Get 8 }}" alt="" /></a></span></div>
+{{ end }}
+{{ if len .Params | eq 6 }}
+<div class="4u"><span class="image fit"><a href="{{ .Get 0 }}"><img src="{{ .Get 0 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 1 }}"><img src="{{ .Get 1 }}" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="{{ .Get 2 }}"><img src="{{ .Get 2 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 3 }}"><img src="{{ .Get 3 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 4 }}"><img src="{{ .Get 4 }}" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="{{ .Get 5 }}"><img src="{{ .Get 5 }}" alt="" /></a></span></div>
+{{ end }}
+{{ if len .Params | eq 3 }}
+<div class="4u"><span class="image fit"><a href="{{ .Get 0 }}"><img src="{{ .Get 0 }}" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="{{ .Get 1 }}"><img src="{{ .Get 1 }}" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="{{ .Get 2 }}"><img src="{{ .Get 2 }}" alt="" /></a></span></div>
+{{ end }}
+</div>
+</div>

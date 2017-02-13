@@ -2,9 +2,20 @@
 title = "About"
 +++
 
+## Vision Statement
+OsMoSiS aims to democratize the tools required for modeling and simulation (M&S) activities for quantitative clinical sciences.
+
+### Goals
+
+OsMoSiS has three fundamental goals -
+
+1. Develop and deploy open source tools for the M&S community in quantitative clinical sciences
+2. Launch a collaborative effort to develop educational resources for community members to utilize open source tools
+3. Promote local, regional, national and international communities through extensive support to **osmocon**'s - flagship workshops/conference of OsMoSiS
+
 ## Meet our Community
 
-OsMoSiS is entirely a community driven effort. The project originally came together from conversations between like-minded researchers and continues to expand as more people contribute tools, expertise, and research ideas. We welcome a global community of researchers, students, software developers, and various others working towards improving the world of quantitative clinical science. We welcome you to join us and help improve tools and practices available to researchers.
+OsMoSiS is a community driven effort. The project originally came together from conversations between like-minded researchers and continues to expand as more people contribute tools, expertise, and research ideas. We welcome a global community of researchers, students, software developers, and various others working towards improving the world of quantitative clinical science. We welcome you to join us and help improve tools and practices available to researchers.
 
 
 ## How to join our community

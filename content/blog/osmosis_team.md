@@ -1,6 +1,6 @@
 +++
 date = "2016-11-21T12:00:00"
-draft = false
+draft = true
 banner = "img/banners/team.jpg"
 tags = ["team","scientific", "advisory", "outreach"]
 title = "OsMoSiS Team"

@@ -36,7 +36,9 @@ We will be setting forth the guidelines and structure for contributions
 
 
 ### Scientific Advisors
-To be announced
+| {{< figure src="/img/portraits/resized/mats.jpg" title="Mats Karlson" caption="Uppsala University">}} | {{< figure src="/img/portraits/resized/brian.jpg" title="Brian Corrigan" caption="Pfizer">}} |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| {{< figure src="/img/portraits/resized/marc.jpg" title="Marc Gastonguay" caption="Metrum Research Group">}}          | {{< figure src="/img/portraits/resized/ron.png" title="Ron Keizer" caption="InsightRx">}}                   |
 
 ### Technical Advisors
 To be announced

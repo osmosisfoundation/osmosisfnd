@@ -78,9 +78,14 @@ paginate = 10
     weight = 4
 
 [[params.menu]]
+    name = "Github"
+    url  = "https://github.com/osmosisfoundation"
+    weight = 5
+
+[[params.menu]]
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
